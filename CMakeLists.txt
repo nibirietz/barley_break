@@ -3,6 +3,10 @@ project(barley_break)
 
 set(CMAKE_CXX_STANDARD 17)
 
+set(dir ${CMAKE_CURRENT_SOURCE_DIR})
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${dir}/bin")
+
+
 find_package(SFML 2.5 COMPONENTS graphics audio REQUIRED)
 
 add_executable(barley_break main.cpp)
