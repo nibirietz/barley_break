@@ -20,9 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="984f8515-3d3f-4480-b878-5b5eb7c39524" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    <list default="true" id="984f8515-3d3f-4480-b878-5b5eb7c39524" name="Changes" comment="Первый-первый">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,11 +90,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685788109250</updated>
-      <workItem from="1685788110257" duration="1027000" />
+      <workItem from="1685788110257" duration="1457000" />
     </task>
+    <task id="LOCAL-00001" summary="Первый-первый">
+      <created>1685789320506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685789320506</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первый-первый" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первый-первый" />
   </component>
 </project>
