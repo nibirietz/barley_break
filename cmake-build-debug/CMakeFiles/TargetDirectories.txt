@@ -1,3 +1,0 @@
-/home/nibirietz/CLionProjects/barley_break/cmake-build-debug/CMakeFiles/barley_break.dir
-/home/nibirietz/CLionProjects/barley_break/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/nibirietz/CLionProjects/barley_break/cmake-build-debug/CMakeFiles/rebuild_cache.dir
